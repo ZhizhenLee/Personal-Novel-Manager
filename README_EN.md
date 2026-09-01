@@ -110,20 +110,6 @@ personal_novel_manager/
 
 ---
 
-## Release Checklist
-
-- [x] License chosen (`LICENSE`, MIT)
-- [ ] Add **screenshots** (novel list home screen, three-pane editor) under `docs/screenshots/` and reference them in the README
-- [ ] Set the **GitHub repository description** (see suggested description below)
-- [ ] Add release / issue / PR templates (optional)
-- [ ] Decide whether to commit `dist/` (recommended: publish the exe as a GitHub Release rather than committing it)
-
-### Suggested GitHub repo description
-
-> Portable single-file Windows tool for organizing & writing novels — drafts, chapters, characters, worldbuilding, RAR import/export.
-
----
-
 ## License
 
 [MIT License](LICENSE)
