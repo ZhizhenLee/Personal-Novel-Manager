@@ -19,7 +19,8 @@ Highlights:
 - **Good looks**: cover thumbnails, card-style novel list, and previews for images and styled xlsx files.
 
 ---
-
+<img width="1202" height="812" alt="ScreenShot_2026-09-01_105627_288" src="https://github.com/user-attachments/assets/2ca9a824-c623-4d70-9477-5a7aa8d79ece" />
+<img width="1202" height="812" alt="ScreenShot_2026-09-01_105830_262" src="https://github.com/user-attachments/assets/bdae7bcb-5536-43f3-b504-cb9146688379" />
 ## Features
 
 - **Novel management**: each novel is a main folder whose name is the novel name. The home screen shows a card list of novels (cover thumbnail + novel name); click one to enter its content management.
