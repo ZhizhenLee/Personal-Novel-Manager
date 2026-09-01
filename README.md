@@ -114,22 +114,6 @@ personal_novel_manager/
 
 ---
 
-## 发布前还需准备
-
-- [x] 选择许可证（根目录 `LICENSE`，MIT）
-- [ ] 添加**截图**（主界面小说列表、三栏编辑界面）到 `docs/screenshots/` 并在 README 中引用
-- [ ] 为仓库设置 **GitHub 项目描述**（见下方「建议的仓库描述」）
-- [ ] 添加 **release / issue / PR 模板**（可选）
-- [ ] 确认 `dist/` 是否要放入仓库（推荐放 GitHub Releases，而非仓库）
-
-### 建议的 GitHub 仓库描述
-
-> Personal Novel Manager（通天录）— 免安装单文件 Windows 小说编写管理工具。三栏管理草稿/正文/角色库/世界观，封面缩略图、xlsx 预览、RAR 整体导入导出。
-
-也可放英文：`Portable single-file Windows tool for organizing & writing novels — drafts, chapters, characters, worldbuilding, RAR import/export.`
-
----
-
 ## English
 
 Full English documentation is available at **[README_EN.md](README_EN.md)**.
