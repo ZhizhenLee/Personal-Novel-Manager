@@ -19,6 +19,8 @@
 - **颜值在线**：封面图片缩略图、卡片式小说列表、xlsx/图片文件预览。
 
 ---
+<img width="1202" height="812" alt="ScreenShot_2026-09-01_105627_288" src="https://github.com/user-attachments/assets/2ca9a824-c623-4d70-9477-5a7aa8d79ece" />
+<img width="1202" height="812" alt="ScreenShot_2026-09-01_105830_262" src="https://github.com/user-attachments/assets/bdae7bcb-5536-43f3-b504-cb9146688379" />
 
 ## 功能
 
