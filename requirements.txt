@@ -1,0 +1,8 @@
+# 运行时无需第三方依赖（仅用 Python 自带 Tkinter）
+# 以下均为可选增强：
+#   pyinstaller  打包为单文件 exe
+#   pillow       封面图片缩放
+#   openpyxl     带样式的 xlsx 表格预览（缺失时回退到标准库极简解析）
+pyinstaller
+pillow
+openpyxl

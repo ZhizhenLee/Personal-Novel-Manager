@@ -1,0 +1,28 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---------- PyInstaller 打包中间产物 ----------
+build/
+*.spec
+
+# 打包产物（如需把 exe 随项目提交，删除下面这一行 dist/ 即可；
+# 推荐方案：dist 里的 exe 放到 GitHub Releases，不进仓库）
+dist/
+
+# ---------- 本地用户配置 ----------
+# 根目录路径、解压软件路径等保存在用户主目录 ~/.tongtianlu_config.json，
+# 不在仓库内；此处保留以防万一写入仓库
+*.config.json
+
+# ---------- 编辑器/系统 ----------
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
